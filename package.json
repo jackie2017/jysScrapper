@@ -17,6 +17,7 @@
   "author": "jackie young",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.17.2",
     "cheerio": "^0.20.0",
     "express": "^4.13.4",
     "mongojs": "^2.3.0",
