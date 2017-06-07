@@ -1,0 +1,28 @@
+{
+  "name": "jysscrapper",
+  "version": "1.0.0",
+  "description": "mongo cheerios mongoose scrapper",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackie2017/jysScrapper.git"
+  },
+  "keywords": [
+    "scrap"
+  ],
+  "author": "jackie young",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "express": "^4.13.4",
+    "mongojs": "^2.3.0",
+    "mongoose": "^4.10.5",
+    "morgan": "^1.8.2",
+    "request": "^2.69.0"
+  },
+  "homepage": "https://github.com/jackie2017/jysScrapper#readme"
+}
